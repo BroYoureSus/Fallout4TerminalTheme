@@ -20,7 +20,7 @@
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
   --rgb-highlight: 217, 217, 200; /* The main highlight color */
-  --rgb-background: 20, 9, 20; /* The main background color */
+  --rgb-background: 20, 19, 20; /* The main background color */
   --rgb-text: 120, 160, 200; /* The color (almost) all text should use */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
   --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
